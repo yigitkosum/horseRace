@@ -1,5 +1,5 @@
 
-Projede Vue.js, Stiller ve Componentler için Quasar kullanılmıştır.
+Projede ana olarak Vue.js; Stiller, Componentler ve Notification için Quasar kullanılmıştır.
 
 ## Çalıştırma
 
