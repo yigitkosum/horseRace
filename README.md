@@ -1,3 +1,6 @@
+
+Projede Vue.js, Stiller ve Componentler için Quasar kullanılmıştır.
+
 ## Çalıştırma
 
 ```bash
